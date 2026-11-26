@@ -1,2 +1,2 @@
-# MurojaahQ
-murojaah
+# MurajaahQ
+murajaah
